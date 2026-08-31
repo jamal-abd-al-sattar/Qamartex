@@ -22,7 +22,7 @@
 
 ## متطلبات التشغيل
 
-- **LuaTeX** (المشروع يعتمد على `luaotfload` و`\directlua`، ولن يعمل على pdfTeX العادي).
+- **LuahbTeX** (المشروع يعتمد على `luaotfload` و`\directlua`، ولن يعمل على pdfTeX العادي).
 - الخطوط التالية يجب أن تكون مثبتة أو متوفرة في مسار البحث الخاص بـ LuahbTeX أو موجودة في نفس مجلد العمل: 
   - `Amiri-Regular.ttf` / `Amiri-Bold.ttf` / `Amiri-Italic.ttf` / `Amiri-BoldItalic.ttf`
   - `ArefRuqaa-Regular.ttf` / `ArefRuqaa-Bold.ttf`
